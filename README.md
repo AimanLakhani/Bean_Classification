@@ -9,6 +9,6 @@ After this adjustment, we need to utilize feature egnineering to best optimize t
 After the feature selection, it was determined the SVM was the best to separate the data. The 'rbf' kernel acheived the best results as it allows for non-linear separation of the features chosen earlier, enabling more complex computation among the distinguising factors \
 The final accuracy was scored to be 94.5%
 
-Dataset
+Dataset\
 The dataset was the dry bean dataset taken from Kaggle: https://www.kaggle.com/datasets/muratkokludataset/dry-bean-dataset
 
